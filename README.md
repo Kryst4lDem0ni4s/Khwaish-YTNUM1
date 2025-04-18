@@ -6,8 +6,9 @@
 
 MindfulTube is a comprehensive redesign of YouTube's mobile interface that encourages mindful watching while maintaining user engagement. This project addresses the challenge of discouraging compulsive binge-watching without negatively affecting platform retention, using only interface design (no backend logic changes).
 
-[View the interactive prototype on Figma]([https://figma.com/file/yourlink](https://www.figma.com/design/1elnRhSZVI2cuM2feXR7aq/YouTube-UI-Clone-Design--Community-?node-id=0-1&t=48fB5tVIgvg4UC00-1))
-https://figma.com/file/yourlink](https://www.figma.com/design/1elnRhSZVI2cuM2feXR7aq/YouTube-UI-Clone-Design--Community-?node-id=0-1&t=48fB5tVIgvg4UC00-1
+[View the interactive prototype on Figma]((https://www.figma.com/design/1elnRhSZVI2cuM2feXR7aq/YouTube-UI-Clone-Design--Community-?node-id=0-1&t=48fB5tVIgvg4UC00-1))
+
+(https://www.figma.com/design/1elnRhSZVI2cuM2feXR7aq/YouTube-UI-Clone-Design--Community-?node-id=0-1&t=48fB5tVIgvg4UC00-1
 
 The screenshots here say a lot, but there's more!
 
