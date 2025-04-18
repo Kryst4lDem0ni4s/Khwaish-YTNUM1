@@ -1,5 +1,7 @@
 # Khwaish-YTNUM1
 
+Participant Name - Khwaish Arora
+
 # MindfulTube: Reimagining YouTube for Mindful Consumption
 
 ## Project Overview
