@@ -6,9 +6,13 @@
 
 MindfulTube is a comprehensive redesign of YouTube's mobile interface that encourages mindful watching while maintaining user engagement. This project addresses the challenge of discouraging compulsive binge-watching without negatively affecting platform retention, using only interface design (no backend logic changes).
 
+[View the interactive prototype on Figma]([https://figma.com/file/yourlink](https://www.figma.com/design/1elnRhSZVI2cuM2feXR7aq/YouTube-UI-Clone-Design--Community-?node-id=0-1&t=48fB5tVIgvg4UC00-1))
+
+The screenshots here say a lot, but there's more!
+
 ## Problem Statement
 
-The competition challenged participants to "Redesign YouTube's mobile viewing experience to discourage compulsive binge-watching—but in a way that doesn't negatively affect engagement or retention." The design needed to subtly influence user behavior through interface alone, preserving the dopamine-driven flow of content consumption[1].
+The competition challenged participants to "Redesign YouTube's mobile viewing experience to discourage compulsive binge-watching—but in a way that doesn't negatively affect engagement or retention." The design needed to subtly influence user behavior through interface alone, preserving the dopamine-driven flow of content consumption.
 
 Focus areas included:
 - Micro-interactions that promote break-taking
@@ -32,7 +36,7 @@ My approach centered on creating a "mindfulness layer" that works harmoniously w
 
 ### Mindful Breaks System
 
-I've designed multiple types of break suggestions that appear at strategic moments[1]:
+I've designed multiple types of break suggestions that appear at strategic moments:
 
 - **Feed Breaks & Content Stoppers** - Friendly messages integrated into the feed with fun formats suggesting breaks after prolonged scrolling
 - **"You've been here for quite a while"** interventions with multiple design variations
@@ -41,7 +45,7 @@ I've designed multiple types of break suggestions that appear at strategic momen
 
 ### Usage Time Tracking
 
-Time awareness is deeply integrated into the UI without being intrusive[1][5]:
+Time awareness is deeply integrated into the UI without being intrusive:
 
 - **Daily Time Limit Progress** - Visual indicator showing current usage relative to goals
 - **Color-Changing Scrollbar** - Changes color based on session duration as a subtle cue
@@ -50,7 +54,7 @@ Time awareness is deeply integrated into the UI without being intrusive[1][5]:
 
 ### Content Flow Management
 
-The design focuses on guiding users toward healthier consumption patterns[1]:
+The design focuses on guiding users toward healthier consumption patterns:
 
 - **Content Shifters** - Interface elements suggesting shifts between content types
 - **Flow Changers** - Recommendations to explore different topics after extended viewing
@@ -68,7 +72,7 @@ Thoughtful mechanisms to encourage conscious viewing:
 
 ### Mindful Notifications System
 
-A redesigned notification system supporting healthy habits[1]:
+A redesigned notification system supporting healthy habits:
 
 - **Break Timers** - Customizable notifications suggesting breaks
 - **Multiple Dismissal Options** - Various ways to acknowledge reminders
